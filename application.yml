@@ -4,8 +4,6 @@ server:
 spring:
   application:
     name: service-feign-b
-  zipkin:
-    baseUrl: http://localhost:9411
 
 eureka:
   client:
